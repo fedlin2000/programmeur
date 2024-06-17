@@ -1,0 +1,12 @@
+h1{
+    background-color: cadetblue;
+    text-align: center;
+}
+p{
+    margin:0px;
+}
+circle img{
+    width: 100%;
+    height:auto;
+    display: block;
+}
